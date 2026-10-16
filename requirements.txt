@@ -1,0 +1,9 @@
+boto3==1.43.113
+geopandas==1.2.0
+numpy==2.5.4
+pyproj==3.8.0
+pystac==1.15.2
+pystac-client==0.9.0
+rasterio==1.5.2
+shapely==2.2.0
+urllib3==2.8.0
